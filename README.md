@@ -9,7 +9,7 @@ Focus: Distributed architecture, data integrity, backend logic, system reliabili
 ## 2.🐳 Docker & Deployment Setup (Added cicd pipelines and deployed the 3 sem. project )
 Tech: Docker, GitHub Container Registry, Ubuntu Server (WSL), NGINX
 a. Created a CI/CD pipeline to build & publish Docker images
-🔗 Repo:
+🔗 Repo:[Link text](https://github.com/Carmen-I/CI-CD-pipeline-sem-3-project)
 
 b. Deployed on Ubuntu Server via WSL
 All steps documented clearly for reproducibility.
