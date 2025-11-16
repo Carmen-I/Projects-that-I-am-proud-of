@@ -1,6 +1,8 @@
-# Projects-that-I-am-proud-of
+# Projects that I am proud of
 
 ## 1.✈️ Distributed Flight Booking System (3rd semester project)
+(Core project built in a group — later used for CI/CD and Docker deployment)
+
 Tech: C#, .NET, REST API, ADO.NET, Dapper, SQL Server
 
 Focus: Distributed architecture, data integrity, backend logic, system reliability
