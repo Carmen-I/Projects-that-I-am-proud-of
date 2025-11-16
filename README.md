@@ -4,22 +4,21 @@
 Tech: C#, .NET, REST API, ADO.NET, Dapper, SQL Server
 Focus: Distributed architecture, data integrity, backend logic, system reliability
 
-🔗 Repo: link
+🔗 [Repo Link:](https://github.com/jonasvbiegel/UCNAirlines)
 
 ## 2.🐳 Docker & Deployment Setup (Added cicd pipelines and deployed the 3 sem. project )
 Tech: Docker, GitHub Container Registry, Ubuntu Server (WSL), NGINX
-a. Created a CI/CD pipeline to build & publish Docker images
-🔗 Repo:[Link text](https://github.com/Carmen-I/CI-CD-pipeline-sem-3-project)
+a. Built a CI/CD pipeline to publish Docker images
+🔗 [Repo Link:](https://github.com/Carmen-I/CI-CD-pipeline-sem-3-project)
 
-b. Deployed on Ubuntu Server via WSL
+b. Deployed on Ubuntu Server using WSL
 All steps documented clearly for reproducibility.
 
-🔗 Repo README: 
+🔗 [Repo README:](https://github.com/Carmen-I/Deployment) 
 
 ## 3.🅿️ Parking System Mini Project (Weekend Challenge)
-
 Tech: C#, .NET, PostgreSQL
 A small but meaningful assignment with focus on structure:
-I was asked to build a parking solution with a PostgreSQL database — a DB I had never used before.
+I was asked to build a parking solution with a PostgreSQL database a DB I had never used before.
 
-🔗 Repo:
+🔗 [Repo Link:](https://github.com/Carmen-I/Parking--api)
